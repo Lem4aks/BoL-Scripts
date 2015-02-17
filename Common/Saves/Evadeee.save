@@ -1,0 +1,68 @@
+return {
+	["spellData"] = {
+		["Diana"] = {
+			["Q - Crescent Strike"] = {
+				["isDangerous"] = true,
+				["dangerLevel"] = 3,
+			},
+		},
+		["Jinx"] = {
+			["W - Zap!"] = {
+				["dangerLevel"] = 2,
+				["isDangerous"] = true,
+			},
+			["R - SMD Rocket!"] = {
+				["dangerLevel"] = 5,
+				["isDangerous"] = true,
+			},
+		},
+		["Janna"] = {
+			["Q - Howling Gale"] = {
+				["isDangerous"] = false,
+				["dangerLevel"] = 3,
+			},
+		},
+		["Morgana"] = {
+			["Q - Dark Binding"] = {
+				["dangerLevel"] = 3,
+				["isDangerous"] = true,
+			},
+		},
+		["Lulu"] = {
+			["Q - Glitterlance"] = {
+				["dangerLevel"] = 2,
+			},
+		},
+		["Lux"] = {
+			["Q - Light Binding"] = {
+				["dangerLevel"] = 3,
+				["isDangerous"] = true,
+			},
+			["R - Final Spark"] = {
+				["dangerLevel"] = 5,
+				["isDangerous"] = true,
+			},
+			["E - Lucent Singularity"] = {
+				["dangerLevel"] = 1,
+			},
+		},
+		["LeeSin"] = {
+			["Q - Sonic Wave"] = {
+				["dangerLevel"] = 3,
+				["isDangerous"] = true,
+			},
+		},
+		["Draven"] = {
+			["E - Stand Aside"] = {
+				["isDangerous"] = true,
+				["dangerLevel"] = 3,
+			},
+			["R - Whirling Death"] = {
+				["isDangerous"] = true,
+				["dangerLevel"] = 4,
+			},
+		},
+	},
+	["dashData"] = {
+	},
+}
